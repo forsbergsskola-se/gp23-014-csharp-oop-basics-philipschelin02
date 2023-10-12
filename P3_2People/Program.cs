@@ -1,3 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿Person[] person = new Person[3];
 
-Console.WriteLine("Hello, World!");
+for (var i = 0; i < person.Length; i++)
+{
+    person[i] = new Person();
+    person[i].names = Console.ReadLine();
+}
+
+for (var i = 0; i < person.Length; i++)
+{
+    person[i].Greeting();
+}
