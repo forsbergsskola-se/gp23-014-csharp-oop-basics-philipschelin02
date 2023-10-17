@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3LevelUp", "P3LevelUp\P3Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4_1Replacing", "P4_1Replacing\P4_1Replacing.csproj", "{B8B970FC-9312-4021-8852-7CA3698AAD25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4_2AllTheSame", "P4_2AllTheSame\P4_2AllTheSame.csproj", "{068DEFAC-1A92-4FCD-9CB2-DA214C203DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4_3PassingReferences", "P4_3PassingReferences\P4_3PassingReferences.csproj", "{9CCCEA71-A1E7-4598-827C-68AC6896C4CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +76,13 @@ Global
 		{B8B970FC-9312-4021-8852-7CA3698AAD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8B970FC-9312-4021-8852-7CA3698AAD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8B970FC-9312-4021-8852-7CA3698AAD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068DEFAC-1A92-4FCD-9CB2-DA214C203DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068DEFAC-1A92-4FCD-9CB2-DA214C203DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068DEFAC-1A92-4FCD-9CB2-DA214C203DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068DEFAC-1A92-4FCD-9CB2-DA214C203DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCCEA71-A1E7-4598-827C-68AC6896C4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCCEA71-A1E7-4598-827C-68AC6896C4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCCEA71-A1E7-4598-827C-68AC6896C4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCCEA71-A1E7-4598-827C-68AC6896C4CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
